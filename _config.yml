@@ -1,3 +1,8 @@
 title: Kevin Tuttle
-description: Personal website
+email: kevin.tuttle@example.edu
+description: "Mathematician. Research in topology, knot theory, and geometric visualization."
+baseurl: "" # leave empty for user/organization site
+url: "https://kjtuttle.github.io"
 theme: minima
+paginate: 5
+
