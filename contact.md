@@ -10,4 +10,4 @@ permalink: /contact/
 
 **Office:** Department of Mathematics, University X
 
-**Profiles:** [GitHub](https://github.com/KJTuttle) · [ORCID](https://orcid.org/) · [Google Scholar](#)
+**Profiles:** [GitHub](https://github.com/KJTuttle) 
