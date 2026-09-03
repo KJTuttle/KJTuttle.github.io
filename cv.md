@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Curriculum Vitae
-permalink: /cv/
+layout: single
+title: "CV"
+author_profile: false
 ---
+
 
 # Curriculum Vitae
 
