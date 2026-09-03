@@ -7,14 +7,17 @@ baseurl: ""
 # Minimal Mistakes theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+# Skin (required for masthead navigation to appear)
+minimal_mistakes_skin: default
+
 # Plugins supported by GitHub Pages
 plugins:
   - jekyll-include-cache
 
-# Author profile (shows in sidebar)
+# Author profile (sidebar)
 author:
   name: "Kevin Tuttle"
-  avatar: "/assets/images/Kevin Tuttle Academic Headshot.PNG"  
+  avatar: "/assets/images/Kevin Tuttle Academic Headshot.PNG"
   bio: "Research in topology, knot theory, and geometric visualization."
   location: "Fayetteville, AR"
   links:
@@ -27,9 +30,15 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "#"
+
+# Top navigation bar (masthead)
 header:
   nav: "main"
 
+masthead:
+  nav: "main"
+
+# Navigation menu
 nav:
   main:
     - title: "Home"
