@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Teaching
-permalink: /teaching/
+layout: single
+title: "Teaching"
+author_profile: false
 ---
+
 
 ## Courses taught
 - **Finite Mathematics** — Finite Mathematics is a 2000 level applied algebra course offered to Business Majors at the University of Arkansas. Topics include Linear Optimization, Normal and Binomial Distributions, the Mathematics of Finance, and Game Theory.
