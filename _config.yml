@@ -27,7 +27,9 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "#"
-
+header:
+  nav: "main"
+  
 # Navigation menu
 nav:
   - title: "Home"
