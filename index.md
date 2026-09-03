@@ -2,7 +2,10 @@
 layout: single
 title: "Kevin Tuttle"
 author_profile: true
+sidebar:
+  nav: "main"
 ---
+
 
 Welcome to my academic homepage.
 
