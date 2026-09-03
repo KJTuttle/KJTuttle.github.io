@@ -14,7 +14,7 @@ plugins:
 # Author profile (shows in sidebar)
 author:
   name: "Kevin Tuttle"
-  avatar: "/assets/images/Kevin Tuttle Academic Headshot.jpg"  
+  avatar: "/assets/images/Kevin Tuttle Academic Headshot.PNG"  
   bio: "Research in topology, knot theory, and geometric visualization."
   location: "Fayetteville, AR"
   links:
