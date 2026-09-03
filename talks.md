@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Talks
-permalink: /talks/
+layout: single
+title: "Talks"
+author_profile: false
 ---
+
 
 # Talks
 
