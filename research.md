@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Research
-permalink: /research/
+layout: single
+title: "Research"
+author_profile: false
 ---
+
 
 # Research
 
