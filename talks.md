@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Talks"
-author_profile: false
+permalink: /talks/
 ---
+
 
 
 # Talks
