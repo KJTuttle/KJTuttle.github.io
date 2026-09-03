@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Contact
-permalink: /contact/
+layout: single
+title: "Contact"
+author_profile: false
 ---
+
 
 # Contact
 
