@@ -1,8 +1,46 @@
-title: Kevin Tuttle
-email: kjtuttle at uark dot edu
-description: "Mathematician. Research in topology, knot theory, and geometric visualization."
-baseurl: "" # leave empty for user/organization site
+title: "Kevin Tuttle"
+email: "kevin.tuttle@example.edu"
+description: "Mathematician — topology, knot theory, geometric visualization."
 url: "https://kjtuttle.github.io"
-theme: minima
-paginate: 5
+baseurl: ""
 
+# Minimal Mistakes theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-include-cache
+
+# Author profile (shows in sidebar)
+author:
+  name: "Kevin Tuttle"
+  avatar: "/assets/images/profile.jpg"   # optional — add later
+  bio: "Research in topology, knot theory, and geometric visualization."
+  location: "Fayetteville, AR"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:kevin.tuttle@example.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/KJTuttle"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "#"
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Talks"
+    url: "/talks/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Contact"
+    url: "/contact/"
