@@ -23,13 +23,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:kevin.tuttle@example.edu"
+      url: "mailto:kjtuttle@uark.edu"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/KJTuttle"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "#"
 
 # Top navigation bar (masthead)
 header:
