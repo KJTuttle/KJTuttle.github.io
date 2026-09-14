@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Courses taught
 - **Finite Mathematics** — Finite Mathematics is a 2000 level applied algebra course offered to Business Majors at the University of Arkansas. Topics include Linear Optimization, Normal and Binomial Distributions, the Mathematics of Finance, and Game Theory.
--    90 studends Syllabus and lecture notes: [link](#).
+-    90 studends Syllabus and lecture notes: [link](/assets/syllabi/math-20503-finite-syllabus-fall-2026-2.pdf).
 - **Calculus 2** — Calculus of Integration and Series. Topics include volumes of revolution, polar coordinates, and sequences/series. Syllabus and assignments: [link](#).
 - **Survey of Calculus** — Business Calculus starting with limits and derivation, moving through optimization (in 2 and 3 dimensions), and ending with integration.
 - **College Algebra** — A freshman algebra course going through function families, the graphs of such, and common algebraic manipulations.
