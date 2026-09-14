@@ -11,7 +11,7 @@ I aim to make abstract concepts tangible through visualization and computation.
 - **Calculus 2** — Calculus of Integration and Series. Topics include volumes of revolution, polar coordinates, and sequences/series. [Syllabus](/assets/syllabi/Calculus%ll%Syllabus%Summer%2026.pdf).
 - **Survey of Calculus** — Business Calculus starting with limits and derivation, moving through optimization (in 2 and 3 dimensions), and ending with integration. [Syllabus](/assets/syllabi/MATH%22003%Course%Syllabus%Spring%2026%MWF.pdf).
 - **College Algebra** — A freshman algebra course going through function families, the graphs of such, and common algebraic manipulations.
-- **Calculus 1 Recitation Instructor** — Leader of a Calculus 1 lab meeting twice a week, helping students firm up the concepts they learned in their MWF course.
+- **Calculus 1 Recitation Instructor** — Leader of a Calculus 1 recitation lab meeting twice a week, helping students firm up the concepts they learned in their MWF lecture.
 ## Teaching History
 - **Fall 2026** — Finite Mathematics Section 006; 90 students.
 - **Summer 2026** — Calculus 2 (8 week) Section 001; 20 students.
