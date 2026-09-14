@@ -29,6 +29,3 @@ I aim to make abstract concepts tangible through visualization and computation.
 - **Fall 2021** — Calculus 1 Recitation Sections D010, D011, and D012; 80 students.
 - **Spring 2021** — Calculus 1 Recitation Sections D011 and D015; 45 students.
 - **Fall 2020** — Calculus 1 Recitation Sections D016, D018, and D020; 75 students.
-
-## Office hours
-Tuesdays 2–4 PM, or by appointment.
