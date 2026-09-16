@@ -10,3 +10,8 @@ permalink: /projects/
 </p>
 
 - **Harmonic Polynomials and their Actions on the Complex Plane** — Given two complex analytic polynomials p\[z\] and q\[z\], one can create harmonic polynomial h= p + Conjugate(q). Its interesting to note that these polynomials h do not respect the fundamental theorem of algebra, if p has degree n, and q has degree m, the number of zeros counting multiplicity does not need to add up to max(n,m) (see [Brooks-Lee](https://link.springer.com/content/pdf/10.1007/s40315-024-00572-1.pdf) for more info. During my undergraduate research, I worked on visualizing the behavior of such, and, adapted from previous workbooks plotting zeros, created a Wolfram Notebook that analyzes the behavior of a given harmonic polynomial on the complex plane. [Notebook](/assets/projects/Harmonic_Polynomial_Graphing_and_Transformations.nb)
+  
+<p align="center">
+  <img src="/assets/images/projects/Harmonic%Complex%Polynomials/Sample_Image_Harmonic_Circle.pdf" width="500">
+</p>
+Here is a sample of a harmonic polynomial, its zeros plotted, and the image of concentric circles, and rays from the origin, under the harmonic map.
