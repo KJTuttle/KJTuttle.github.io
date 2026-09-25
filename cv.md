@@ -1,9 +1,8 @@
 ---
 layout: single
 title: "CV"
-author_profile: false
+permalink: /CV/
 ---
-
 
 # Curriculum Vitae
 
