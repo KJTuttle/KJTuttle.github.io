@@ -1,14 +1,12 @@
 ---
 layout: single
 title: "Contact"
-author_profile: false
+permalink: /Contact/
 ---
-
 
 # Contact
 
-**Email:** kevin.tuttle@example.edu
+**Email:** kjtuttle at uark dot edu
 
-**Office:** Department of Mathematics, University X
-
+**Office:** SCEN 226
 **Profiles:** [GitHub](https://github.com/KJTuttle) 
