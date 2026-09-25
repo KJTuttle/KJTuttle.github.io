@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 # Educational Talks
-- **Title:** TBA — *University of Arkansas Math 5100V Guest Lecturer* September 22nd, 2026
+- **Title:** Teaching from a Grad Student Perspective — *University of Arkansas Math 5100V Guest Lecturer* September 22nd, 2026
 - **Session Co-leader:** Active Learning in the Classroom — *University of Arkansas Teaching and Learning Workshop*, October 21st, 2025
 
 # Research Talks
