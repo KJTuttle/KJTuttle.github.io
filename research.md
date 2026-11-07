@@ -4,22 +4,17 @@ title: "Research"
 permalink: /research/
 ---
 
+<figure class="align-right" style="width: 240px">
+  <img src="/assets/images/topology/figure-eight-knot-rotating.gif" alt="An animation of the figure-eight knot, a blue tube knotted with four crossings, rotating in space">
+  <figcaption>The figure-eight knot. Image: Jim.belk (public domain), via Wikimedia Commons.</figcaption>
+</figure>
+
 ## Overview
 My research is in low-dimensional topology, specifically contact 3-manifolds and the symplectic 4-manifolds they bound. Dimensions 3 and 4 are the lowest dimensions where unusual phenomena occur; dimension 4, for example, is the only dimension in which ℝ⁴ has uncountably many different smooth structures. The tools for studying these manifolds draw on algebraic geometry, complex analysis, homological algebra, dynamics, and combinatorics.
 
 [Read my research statement (PDF)](/assets/statements/Kevin_Tuttle_Research_Statement.pdf)
 
-<div style="display: flex; justify-content: center; align-items: flex-end; gap: 1.5em; flex-wrap: wrap; margin: 1.75em 0 0.5em;">
-  <figure style="margin: 0; width: 250px; max-width: 45%; text-align: center;">
-    <img src="/assets/images/topology/trefoil-knot.jpg" alt="The trefoil knot, a blue tube knotted with three crossings">
-    <figcaption>The trefoil knot</figcaption>
-  </figure>
-  <figure style="margin: 0; width: 250px; max-width: 45%; text-align: center;">
-    <img src="/assets/images/topology/figure-eight-knot-rotating.gif" alt="An animation of the figure-eight knot, a blue tube knotted with four crossings, rotating in space">
-    <figcaption>The figure-eight knot</figcaption>
-  </figure>
-</div>
-<p style="text-align: center; font-size: 0.75em; margin-top: 0;">Images by Jim.belk (public domain), via Wikimedia Commons.</p>
+<div style="clear: both;"></div>
 
 ## Dissertation
 **Algorithmic Legendrian Realization of Open Book Decompositions of Contact 3-manifolds**, under Dr. Jeremy Van Horn-Morris. Defense expected May 2027.
