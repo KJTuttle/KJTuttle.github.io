@@ -10,7 +10,7 @@ I enjoy sharing mathematics with audiences beyond the research community, especi
 
 [Arkansas Math Discovery Day](https://amdd.uark.edu/) is a family-oriented community event, hosted by the University of Arkansas Department of Mathematical Sciences and the Fayetteville Public Library, that presents math beyond the classroom through patterns, puzzles, and open questions. It is geared toward youth ages 6 to 16, with booths and math games set up in the local library so that visitors learn hands-on.
 
-<figure class="align-right" style="width: 380px">
+<figure style="max-width: 520px; margin: 1.75em auto; text-align: center;">
   <img src="/assets/images/outreach/amdd-platonic-solids.jpg" alt="A volunteer in a red shirt holds up two white pentagonal faces of a Platonic solid model, one marked with a blue line, while visitors look on.">
   <figcaption>Hands-on Platonic solids at Arkansas Math Discovery Day.</figcaption>
 </figure>
