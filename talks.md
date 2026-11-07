@@ -14,3 +14,17 @@ permalink: /talks/
 - **Title:** Symplectic Manifolds and Lefschetz Fibrations — *University of Arkansas Topology Seminar* April 3rd, 2025
 - **Title:** From Integral Curves to Contact Structures — *University of Arkansas Graduate Student Colloquium* January 1st, 2025, and October 28th, 2025
 - **Title:** Picturing the 4th Dimension: A topological Journey Through Kirby Calculus — *University of Arkansas Graduate Student Colloquium* October 3rd and 10th, 2024
+
+# Conferences Attended
+- **Redbud Topology Conference** — Arkansas–Oklahoma regional topology meeting
+  - Fall 2026 — *University of Arkansas*, November 7th, 2026. [Website](https://redbud.uark.edu/)
+  - Spring 2026 — *University of Oklahoma*, April 10-12, 2026. [Website](https://redbud.math.ou.edu/spring-2026/)
+  - Fall 2025 — *Oklahoma State University*, November 8th, 2025. [Website](https://sites.google.com/view/yanwenluo/fall-2025-redbud)
+  - Spring 2025 — *University of Arkansas*, February 28th - March 2nd, 2025. [Website](https://redbud.uark.edu/spring-2025)
+  - Spring 2023 — *University of Oklahoma*, March 31st - April 2nd, 2023. [Website](https://math.ou.edu/redbud/spring-2023/)
+- **Tech Topology Conference** — *Georgia Institute of Technology*
+  - December 5-7, 2025. [Website](https://etnyre.math.gatech.edu/TechTopology/2025)
+  - December 8-10, 2023. [Website](https://etnyre.math.gatech.edu/TechTopology/2023/)
+- **South Central Topology Conference IV** — Spring 2025. [Program](https://www.hiroleetanaka.com/sctc/_SCTC04-index.php?pageID=program)
+- **SEC Topology Conference** — Spring 2025 and Spring 2023
+- **Topology Students Workshop** — Summer 2024
