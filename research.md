@@ -35,14 +35,14 @@ I presented this work at the AMS Fall Eastern Sectional Meeting (October 3, 2026
 - 3‑manifold geometry
 - Computational visualization
 
-## Undergraduate research
-Knot theory is a very accessible entry point to research for undergraduates. Without the full topological machinery, there are several homology theories for calculating knot invariants, for example:
+## Mentoring undergraduate research
+I hope to mentor undergraduates in research projects, and knot theory is a very accessible way in. Without the full topological machinery, there are several homology theories for calculating knot invariants, for example:
 
 1. Legendrian contact homology
 2. Knot Floer homology (via grid diagrams)
 3. Khovanov homology
 
-Calculating such invariants gives students experience with knot theory, with algebraic ideas like the homology of a chain complex or DGA, and with algorithmic thinking. Coding is optional depending on the project, but it can be a valuable skill to take into a career. Students could compute invariants for specific families of knots and contribute to the community's knot atlases as part of a thesis.
+Calculating such invariants would give students experience with knot theory, with algebraic ideas like the homology of a chain complex or DGA, and with algorithmic thinking. Coding is optional depending on the project, but it can be a valuable skill to take into a career. Students could compute invariants for specific families of knots and contribute to the community's knot atlases as part of a thesis.
 
 ## Computation and visualization
 See my [Projects](/projects/) page for code and notebooks, including Legendrian contact homology computations and visualizations of harmonic polynomials on the complex plane.
