@@ -27,5 +27,7 @@ permalink: /talks/
   - December 5-7, 2025. [Website](https://etnyre.math.gatech.edu/TechTopology/2025)
   - December 8-10, 2023. [Website](https://etnyre.math.gatech.edu/TechTopology/2023/)
 - **South Central Topology Conference IV** — March 8-9, 2025. [Program](https://www.hiroleetanaka.com/sctc/_SCTC04-index.php?pageID=program)
-- **SEC Topology Conference** — Spring 2025 and Spring 2023
+- **SEC Geometry and Topology Workshop** — *University of Alabama, Tuscaloosa*
+  - May 9-11, 2025. [Website](https://sites.ua.edu/btosun/sec-topology-2025/)
+  - June 2-4, 2023. [Website](https://sites.ua.edu/btosun/sec-topology/)
 - **Topology Students Workshop** — Summer 2024
