@@ -2,15 +2,6 @@
 layout: single
 title: "Research"
 permalink: /research/
-gallery:
-  - url: /assets/images/topology/trefoil-knot.jpg
-    image_path: /assets/images/topology/trefoil-knot.jpg
-    alt: "The trefoil knot, a blue tube knotted with three crossings"
-    title: "The trefoil knot"
-  - url: /assets/images/topology/figure-eight-knot.jpg
-    image_path: /assets/images/topology/figure-eight-knot-rotating.gif
-    alt: "An animation of the figure-eight knot, a blue tube knotted with four crossings, rotating in space"
-    title: "The figure-eight knot"
 ---
 
 ## Overview
@@ -18,14 +9,24 @@ My research is in low-dimensional topology, specifically contact 3-manifolds and
 
 [Read my research statement (PDF)](/assets/statements/Kevin_Tuttle_Research_Statement.pdf)
 
-{% include gallery layout="half" caption="Images by Jim.belk (public domain), via Wikimedia Commons." %}
+<div style="display: flex; justify-content: center; align-items: flex-end; gap: 1.5em; flex-wrap: wrap; margin: 1.75em 0 0.5em;">
+  <figure style="margin: 0; width: 250px; max-width: 45%; text-align: center;">
+    <img src="/assets/images/topology/trefoil-knot.jpg" alt="The trefoil knot, a blue tube knotted with three crossings">
+    <figcaption>The trefoil knot</figcaption>
+  </figure>
+  <figure style="margin: 0; width: 250px; max-width: 45%; text-align: center;">
+    <img src="/assets/images/topology/figure-eight-knot-rotating.gif" alt="An animation of the figure-eight knot, a blue tube knotted with four crossings, rotating in space">
+    <figcaption>The figure-eight knot</figcaption>
+  </figure>
+</div>
+<p style="text-align: center; font-size: 0.75em; margin-top: 0;">Images by Jim.belk (public domain), via Wikimedia Commons.</p>
 
 ## Dissertation
 **Algorithmic Legendrian Realization of Open Book Decompositions of Contact 3-manifolds**, under Dr. Jeremy Van Horn-Morris. Defense expected May 2027.
 
 My work centers on the algorithmic use of the Giroux Correspondence: an equivalence between contact structures on a 3-manifold, usually described by knot surgery diagrams, and open book decompositions, which describe the manifold through mapping class groups. Bourgeois, Ekholm, and Eliashberg's differential graded algebra (DGA) invariants are computed from Legendrian surgery diagrams, so a long-standing question is whether such invariants can be computed directly from an open book decomposition. Avdek and Stenhede, among others, have worked out how to convert open books into surgery diagrams, and my work concerns the algorithmic side of that conversion.
 
-<figure class="align-right" style="width: 380px">
+<figure style="max-width: 460px; margin: 1.75em auto; text-align: center;">
   <img src="/assets/images/research/legendrian-trefoil-front.png" alt="Front projection of the standard Legendrian trefoil in plat position: two left cusps, two right cusps, and three crossings in the middle.">
   <figcaption>The standard Legendrian trefoil in front projection (plat position), with two left cusps, two right cusps, and three crossings.</figcaption>
 </figure>
