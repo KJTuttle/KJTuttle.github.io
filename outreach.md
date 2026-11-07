@@ -8,11 +8,13 @@ I enjoy sharing mathematics with audiences beyond the research community, especi
 
 ## Arkansas Math Discovery Day
 
-[Arkansas Math Discovery Day](https://amdd.uark.edu/) is a family-oriented community event, hosted by the University of Arkansas Department of Mathematical Sciences and the Fayetteville Public Library, that presents math beyond the classroom through patterns, puzzles, and open questions.
+[Arkansas Math Discovery Day](https://amdd.uark.edu/) is a family-oriented community event, hosted by the University of Arkansas Department of Mathematical Sciences and the Fayetteville Public Library, that presents math beyond the classroom through patterns, puzzles, and open questions. It is geared toward youth ages 6 to 16, with booths and math games set up in the local library so that visitors learn hands-on.
 
-- **Volunteer, "Platonic Solids and Gaussian Curvature" booth** — *Arkansas Math Discovery Day*, Spring 2026 and Spring 2025. [Website](https://amdd.uark.edu/)
+I lead the Platonic Solids and Gaussian Curvature booth. Using large models of the Platonic solids, we introduce visitors to the Euler characteristic and to polygon angles in non-Euclidean geometry. Visitors also draw on a flat map the path they think is the quickest between two distant cities. We then copy that path onto a globe and use a string with magnets to show the true shortest path, which looks curved on the flat map. Combining visualization with tactile learning has worked especially well with budding young mathematicians.
 
-{% include figure image_path="/assets/images/outreach/amdd-platonic-solids.jpg" alt="A volunteer in a red shirt holds up two white pentagonal polyhedron faces, one marked with a blue line, while visitors look on." caption="Hands-on Platonic solids at Arkansas Math Discovery Day." %}
+- **Volunteer and booth lead, "Platonic Solids and Gaussian Curvature"** — *Arkansas Math Discovery Day*, Spring 2026 and Spring 2025. [Website](https://amdd.uark.edu/)
+
+{% include figure image_path="/assets/images/outreach/amdd-platonic-solids.jpg" alt="A volunteer in a red shirt holds up two white pentagonal faces of a Platonic solid model, one marked with a blue line, while visitors look on." caption="Hands-on Platonic solids at Arkansas Math Discovery Day." %}
 
 ## High School Math Day
 
