@@ -2,15 +2,15 @@
 layout: single
 title: "Kevin Tuttle"
 author_profile: true
-excerpt: "Low-dimensional topology at the University of Arkansas"
-header:
-  overlay_image: /assets/images/banners/hopf-fibration-banner.jpg
-  overlay_filter: 0.2
-  caption: "Fibers of the Hopf fibration, seen under stereographic projection"
 sidebar:
   nav: "main"
 ---
 
+
+<figure class="align-right" style="width: 380px">
+  <img src="/assets/images/topology/hopf-fibration.jpg" alt="A colorful visualization of the Hopf fibration: nested, interlocking bands of circles in three dimensions, with the two-sphere they map onto shown at lower right.">
+  <figcaption>Visualization of the Hopf fibration. Image: <a href="https://commons.wikimedia.org/wiki/File:Hopf_Fibration.png">Niles Johnson</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, via Wikimedia Commons (resized).</figcaption>
+</figure>
 
 Welcome to my academic homepage.
 
@@ -21,3 +21,5 @@ I am a 7th year graduate student at the University of Arkansas. I will have earn
 - Legendrian knot invariants
 - 3‑manifold geometry
 - Computational visualization
+
+<div style="clear: both;"></div>
