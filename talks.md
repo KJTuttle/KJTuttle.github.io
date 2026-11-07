@@ -9,6 +9,7 @@ permalink: /talks/
 - **Session Co-leader:** Active Learning in the Classroom — *University of Arkansas Teaching and Learning Workshop*, October 21st, 2025
 
 # Research Talks
+- **Title:** Legendrian Realization of Open Book Decomposition Monodromy in Contact 3-manifolds — *Redbud Topology Conference, University of Arkansas* November 7th, 2026 [Website](https://redbud.uark.edu/)
 - **Title:** Algorithmic Legendrian Realization of Open Book Decompositions of Contact 3-manifolds — *AMS Fall Eastern Sectional: Special Session on Contact and Symplectic Topology in Low Dimensions* October 3rd, 2026 [Abstract](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/64230) [Slides](/assets/talks/AMS_DC_2026_Kevin_Tuttle_Presentation.pdf)
 - **Title:** From Corks to Contact Structures — *South Central Topology Conference IV* March 9th, 2025 [Abstract](https://www.hiroleetanaka.com/sctc/_SCTC04-index.php?pageID=program)
 - **Title:** Symplectic Manifolds and Lefschetz Fibrations — *University of Arkansas Topology Seminar* April 3rd, 2025
