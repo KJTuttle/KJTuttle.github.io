@@ -4,7 +4,7 @@ title: "Outreach"
 permalink: /outreach/
 ---
 
-I enjoy sharing mathematics with audiences beyond the research community, especially the geometry and topology that can be built, drawn, and held in your hands.
+I enjoy sharing mathematics with audiences beyond the research community, especially the geometry and topology that can be built, drawn, or held in your hands.
 
 ## Arkansas Math Discovery Day
 
@@ -12,7 +12,7 @@ I enjoy sharing mathematics with audiences beyond the research community, especi
 
 - **Volunteer, "Platonic Solids and Gaussian Curvature" booth** — *Arkansas Math Discovery Day*, Spring 2026 and Spring 2025. [Website](https://amdd.uark.edu/)
 
-{% include figure image_path="/assets/images/outreach/amdd-platonic-solids.jpg" alt="A volunteer in a red shirt holds up two white pentagonal polyhedron faces, one marked with a blue line, while visitors look on." caption="Hands-on polyhedra at Arkansas Math Discovery Day." %}
+{% include figure image_path="/assets/images/outreach/amdd-platonic-solids.jpg" alt="A volunteer in a red shirt holds up two white pentagonal polyhedron faces, one marked with a blue line, while visitors look on." caption="Hands-on Platonic solids at Arkansas Math Discovery Day." %}
 
 ## High School Math Day
 
