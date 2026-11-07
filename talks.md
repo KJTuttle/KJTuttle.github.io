@@ -16,7 +16,7 @@ permalink: /talks/
 - **Title:** Picturing the 4th Dimension: A topological Journey Through Kirby Calculus — *University of Arkansas Graduate Student Colloquium* October 3rd and 10th, 2024
 
 # Conferences Attended
-- **AMS Fall Eastern Sectional Meeting** — Special Session on Contact and Symplectic Topology in Low Dimensions, October 3rd, 2026. [Meeting program](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/64230)
+- **AMS Fall Eastern Sectional Meeting** — Special Session on Contact and Symplectic Topology in Low Dimensions — *George Washington University, Washington, DC*, October 3rd, 2026. [Meeting program](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/64230)
 - **Redbud Topology Conference** — Arkansas–Oklahoma regional topology meeting
   - Fall 2026 — *University of Arkansas*, November 7th, 2026. [Website](https://redbud.uark.edu/)
   - Spring 2026 — *University of Oklahoma*, April 10-12, 2026. [Website](https://redbud.math.ou.edu/spring-2026/)
