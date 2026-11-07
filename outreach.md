@@ -4,27 +4,18 @@ title: "Outreach"
 permalink: /outreach/
 ---
 
-I enjoy sharing mathematics with audiences beyond the research community, especially the ideas of topology and geometry that can be made visual and tangible.
+I enjoy sharing mathematics with audiences beyond the research community, especially the geometry and topology that can be built, drawn, and held in your hands.
 
-<!--
-HOW TO ADD ENTRIES
-Each entry is one bullet, in the same style as the Talks page:
-- **Title or role:** Short description — *Organization or venue*, Date. [Link](https://example.com)
-Delete any section below that you don't need, and delete these comments when done.
--->
+## Arkansas Math Discovery Day
 
-## Community and K-12 Outreach
-- **[Event or program name]:** [One or two sentences on what you did and who the audience was.] — *[Organization]*, [Date]. [Link](https://example.com)
+[Arkansas Math Discovery Day](https://amdd.uark.edu/) is a family-oriented community event, hosted by the University of Arkansas Department of Mathematical Sciences and the Fayetteville Public Library, that presents math beyond the classroom through patterns, puzzles, and open questions.
 
-## Public Lectures and Demonstrations
-- **[Title]:** [Short description.] — *[Venue]*, [Date].
+- **Volunteer, "Platonic Solids and Gaussian Curvature" booth** — *Arkansas Math Discovery Day*, Spring 2026 and Spring 2025. [Website](https://amdd.uark.edu/)
 
-## Mentoring and Student Programs
-- **[Role or program]:** [Short description.] — *[Organization]*, [Years].
+{% include figure image_path="/assets/images/outreach/amdd-platonic-solids.jpg" alt="A volunteer in a red shirt holds up two white pentagonal polyhedron faces, one marked with a blue line, while visitors look on." caption="Hands-on polyhedra at Arkansas Math Discovery Day." %}
 
-## Service and Organizing
-- **[Role]:** [Short description.] — *[Organization]*, [Years].
+## High School Math Day
 
-## Resources
-<!-- Optional: handouts, activity sheets, slides, or visualizations others can reuse. -->
-- [Resource name](/assets/outreach/your-file.pdf) — [One-line description.]
+Each year, the Department of Mathematical Sciences hosts students from several local high schools to show off the department and the University, a tradition continued from Dr. Mantero. I am volunteering at this year's High School Math Day, where volunteers lead hands-on activities in the style of Arkansas Math Discovery Day and other math-heavy games, and then join the students over a pizza lunch to chat and answer their questions.
+
+- **Volunteer, High School Math Day** — *University of Arkansas Department of Mathematical Sciences*, Thursday, November 12, 2026.
