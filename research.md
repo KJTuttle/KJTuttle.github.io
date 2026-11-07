@@ -8,8 +8,8 @@ gallery:
     alt: "The trefoil knot, a blue tube knotted with three crossings"
     title: "The trefoil knot"
   - url: /assets/images/topology/figure-eight-knot.jpg
-    image_path: /assets/images/topology/figure-eight-knot.jpg
-    alt: "The figure-eight knot, a blue tube knotted with four crossings"
+    image_path: /assets/images/topology/figure-eight-knot-rotating.gif
+    alt: "An animation of the figure-eight knot, a blue tube knotted with four crossings, rotating in space"
     title: "The figure-eight knot"
 ---
 
