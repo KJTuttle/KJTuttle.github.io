@@ -2,17 +2,23 @@
 layout: single
 title: "Research"
 permalink: /research/
-excerpt: "Contact topology, Legendrian knots, and algorithms"
-header:
-  overlay_image: /assets/images/banners/knots-banner.jpg
-  overlay_filter: 0.2
-  caption: "A Hopf link, a trefoil, and a figure-eight knot"
+gallery:
+  - url: /assets/images/topology/trefoil-knot.jpg
+    image_path: /assets/images/topology/trefoil-knot.jpg
+    alt: "The trefoil knot, a blue tube knotted with three crossings"
+    title: "The trefoil knot"
+  - url: /assets/images/topology/figure-eight-knot.jpg
+    image_path: /assets/images/topology/figure-eight-knot.jpg
+    alt: "The figure-eight knot, a blue tube knotted with four crossings"
+    title: "The figure-eight knot"
 ---
 
 ## Overview
 My research is in low-dimensional topology, specifically contact 3-manifolds and the symplectic 4-manifolds they bound. Dimensions 3 and 4 are the lowest dimensions where unusual phenomena occur; dimension 4, for example, is the only dimension in which ℝ⁴ has uncountably many different smooth structures. The tools for studying these manifolds draw on algebraic geometry, complex analysis, homological algebra, dynamics, and combinatorics.
 
 [Read my research statement (PDF)](/assets/statements/Kevin_Tuttle_Research_Statement.pdf)
+
+{% include gallery layout="half" caption="Images by Jim.belk (public domain), via Wikimedia Commons." %}
 
 ## Dissertation
 **Algorithmic Legendrian Realization of Open Book Decompositions of Contact 3-manifolds**, under Dr. Jeremy Van Horn-Morris. Defense expected May 2027.
