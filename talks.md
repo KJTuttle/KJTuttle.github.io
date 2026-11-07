@@ -30,4 +30,4 @@ permalink: /talks/
 - **SEC Geometry and Topology Workshop** — *University of Alabama, Tuscaloosa*
   - May 9-11, 2025. [Website](https://sites.ua.edu/btosun/sec-topology-2025/)
   - June 2-4, 2023. [Website](https://sites.ua.edu/btosun/sec-topology/)
-- **Topology Students Workshop** — *Vanderbilt University*, June 2024. [Website](https://margalit.droppages.net/tsw24/index.html)
+- **Topology Students Workshop** — *Vanderbilt University*, June 10-14, 2024. [Website](https://margalit.droppages.net/tsw24/index.html)
