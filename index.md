@@ -2,6 +2,11 @@
 layout: single
 title: "Kevin Tuttle"
 author_profile: true
+excerpt: "Low-dimensional topology at the University of Arkansas"
+header:
+  overlay_image: /assets/images/banners/hopf-fibration-banner.jpg
+  overlay_filter: 0.2
+  caption: "Fibers of the Hopf fibration, seen under stereographic projection"
 sidebar:
   nav: "main"
 ---
