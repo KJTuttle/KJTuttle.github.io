@@ -6,6 +6,9 @@ permalink: /teaching/
 
 ## Teaching statement
 I aim to make abstract concepts tangible through visualization and computation.
+
+[Read my full teaching statement (PDF)](/assets/statements/Kevin_Tuttle_Teaching_Statement.pdf)
+
 ## Courses taught
 - **Finite Mathematics** — Finite Mathematics is a 2000 level applied algebra course offered to Business Majors at the University of Arkansas. Topics include Linear Optimization, Normal and Binomial Distributions, the Mathematics of Finance, and Game Theory. [Syllabus](/assets/syllabi/math-20503-finite-syllabus-fall-2026-2.pdf).
 - **Calculus 2** — Calculus of Integration and Series. Topics include volumes of revolution, polar coordinates, and sequences/series. [Syllabus](/assets/syllabi/Calculus%20II%20Syllabus%20Summer%202026.pdf).
