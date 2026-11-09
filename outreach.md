@@ -21,8 +21,8 @@ I lead the Platonic Solids and Gaussian Curvature booth. Using large models of t
 
 <div style="clear: both;"></div>
 
-## High School Math Day
+## University of Arkansas High School Math Day
 
-Each year, the Department of Mathematical Sciences hosts students from several local high schools to show off the department and the University, a tradition continued from Dr. Mantero. I am volunteering at this year's High School Math Day, where volunteers lead hands-on activities in the style of Arkansas Math Discovery Day and other math-heavy games, and then join the students over a pizza lunch to chat and answer their questions.
+Each year, the Department of Mathematical Sciences hosts students from several local high schools to show off the department and the University, a tradition continued from Dr. Mantero. I am volunteering at this year's University of Arkansas High School Math Day, where volunteers lead hands-on activities in the style of Arkansas Math Discovery Day and other math-heavy games, and then join the students over a pizza lunch to chat and answer their questions.
 
-- **Volunteer, High School Math Day** — *University of Arkansas Department of Mathematical Sciences*, Thursday, November 12, 2026.
+- **Volunteer, University of Arkansas High School Math Day** — *University of Arkansas Department of Mathematical Sciences*, Thursday, November 12, 2026.
